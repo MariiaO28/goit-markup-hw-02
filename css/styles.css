@@ -8,12 +8,11 @@
 
 }
 
-
-body {
-    font-family: "Roboto", sans-serif;
+.body {
+    font-family:"Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
-    color: #434455;
+    color: var(--primary-text-color);
     background-color: var(--pimary-white-color);
 }
 
@@ -25,7 +24,7 @@ body {
     list-style: none;
 }
 
-.header-logo {
+.logo{
     font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -34,7 +33,7 @@ body {
     text-transform: uppercase;
     color: var(--secondary-accent-color);
 }
-.header-studio {
+.span {
     color: var(--title-text-color);
 }
 
