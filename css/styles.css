@@ -10,10 +10,10 @@
 
 
 body {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
-    color: var(--primary-text-color);
+    color: #434455;
     background-color: var(--pimary-white-color);
 }
 
@@ -26,11 +26,12 @@ body {
 }
 
 .header-logo {
-    font-family: 'Raleway';
+    font-family: "Raleway", sans-serif;
     font-weight: 800;
     font-size: 18px;
-    line-height: 1.33;
+    line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: var(--secondary-accent-color);
 }
 .header-studio {
