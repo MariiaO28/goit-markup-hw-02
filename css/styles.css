@@ -40,6 +40,7 @@ body {
 
 .header-link {
     font-weight: 500;
+    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--title-text-color);
@@ -186,7 +187,7 @@ body {
 }
 
 .service-btn { 
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
