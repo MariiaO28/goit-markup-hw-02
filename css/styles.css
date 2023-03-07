@@ -8,8 +8,8 @@
     
 }
 
-.body {
-    font-family:'Roboto', sans-serif;
+body {
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -34,7 +34,7 @@
     text-transform: uppercase;
     color: var(--secondary-accent-color);
 }
-.span {
+.header-studio {
     color: var(--title-text-color);
 }
 
@@ -75,7 +75,7 @@
 }
 
 .hero-btn {
-    font-family: 'Roboto';
+    font-family: 'Raleway', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -176,7 +176,7 @@
 }
 
 .service-btn { 
-    font-family: 'Roboto';
+    font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
