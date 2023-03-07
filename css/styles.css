@@ -45,7 +45,8 @@ body {
 }
 
 .header-link:hover,
-.header-link:focus {
+.header-link:focus,
+.header-link:active {
     color: var(--accent-color);
 }
 
